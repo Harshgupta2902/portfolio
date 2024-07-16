@@ -16,7 +16,7 @@ export default function Home() {
       <VerticalTimeline/>
       <PreviousWork/>
       <ContactCard/>
-      <HireMeCard/>
+      {/* <HireMeCard/> */}
       <Footer/>
     </>
   )

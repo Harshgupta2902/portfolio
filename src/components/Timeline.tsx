@@ -3,24 +3,31 @@ import React from 'react';
 const experiences = [
   {
     id: 1,
-    role: 'Freelance Developer',
-    company: 'Spill Notify',
-    date: 'No Specific Date',
+    role: 'Executive Flutter Developer',
+    company: 'Cognus Technology',
+    date: 'Sep 2023 - Present',
     description: 'Developed a tool that allows users of a group to buy limited time items faster than others by monitoring the websites using HTTP requests. More info here.',
   },
   {
     id: 2,
-    role: 'Software Developer',
-    company: 'Ambush.IO',
-    date: 'Aug 2021 - Apr 2022',
+    role: 'Sr. Flutter Developer',
+    company: 'Ixora Infotech Pvt. Ltd.',
+    date: 'June 2023 - Sep 2023',
     description: 'Used Python + Flask to develop the software for a SaaS with a team of developers. More info here.',
   },
   {
     id: 3,
-    role: 'Developer/Owner',
-    company: 'LiquidTools',
-    date: 'Apr 2022 - Current',
+    role: 'Research Analyst',
+    company: 'Arcgate',
+    date: 'Nov 2022 - Apr 2023',
     description: 'A SaaS start up I developed in my spare time that now has 200+ monthly paying users. Used Python + JS. More info here.',
+  },
+  {
+    id: 4,
+    role: 'Intern Backend Developer',
+    company: 'Ixora Infotech Pvt. Ltd.',
+    date: 'June 2022 - Sep 2022',
+    description: 'Used Python + Flask to develop the software for a SaaS with a team of developers. More info here.',
   },
 ];
 
