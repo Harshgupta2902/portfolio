@@ -43,7 +43,7 @@ const TimelineItem: React.FC<TimelineItemProps> = ({ experience, side }) => {
         <h3 className="text-xl font-semibold mb-2">{experience.role}</h3>
         <h4 className="text-purple-300 text-purple-300 mb-4">{experience.company}</h4>
         <p className="text-purple-200 text-purple-200 mb-2">{experience.date}</p>
-        <p className="text-black text-white">{experience.description}</p>
+        {/* <p className="text-black text-white">{experience.description}</p> */}
       </div>
     </div>
   );
