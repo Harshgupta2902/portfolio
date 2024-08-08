@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
         <div className="flex justify-center space-x-4">
           <ButtonLink className="bg-white text-blue-600 font-semibold px-6 py-2 rounded-md hover:bg-gray-100" buttonText='Previous Work' elementId='previouswork' />
           <button className="bg-transparent border-2 border-white text-white font-semibold px-6 py-2 rounded-md hover:bg-white hover:text-blue-600">
-            <Link href='https://resume.io/r/kpSyznSzv' target='_blank'>
+            <Link href='https://www.goodcv.com/cv/4487fbf25a954a8bc5deeeaddfe859b9' target='_blank'>
               Resume
             </Link>
           </button>
