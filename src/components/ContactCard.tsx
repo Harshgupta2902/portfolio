@@ -14,7 +14,7 @@ const ContactCard: React.FC = () => {
                             <span className="text-sm p-4">Full Stack Software Engineer</span>
                         </p>
                         <button className="bg-inherit border text-purple-200 px-4 py-2 rounded shadow hover:bg-gray-100 hover:text-black transition-colors duration-200">
-                            <Link href='https://resume.io/r/kpSyznSzv' target='_blank'>
+                            <Link href='https://www.goodcv.com/cv/4487fbf25a954a8bc5deeeaddfe859b9' target='_blank'>
                                 Resume
                             </Link>
                         </button>
