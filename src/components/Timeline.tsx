@@ -6,28 +6,24 @@ const experiences = [
     role: 'Executive Flutter Developer',
     company: 'Cognus Technology',
     date: 'Sep 2023 - Present',
-    description: 'Developed a tool that allows users of a group to buy limited time items faster than others by monitoring the websites using HTTP requests. More info here.',
   },
   {
     id: 2,
-    role: 'Sr. Flutter Developer',
+    role: 'Flutter Developer',
     company: 'Ixora Infotech Pvt. Ltd.',
     date: 'June 2023 - Sep 2023',
-    description: 'Used Python + Flask to develop the software for a SaaS with a team of developers. More info here.',
   },
   {
     id: 3,
-    role: 'Research Analyst',
-    company: 'Arcgate',
-    date: 'Nov 2022 - Apr 2023',
-    description: 'A SaaS start up I developed in my spare time that now has 200+ monthly paying users. Used Python + JS. More info here.',
+    role: 'Full Stack Developer(Android and Web)',
+    company: 'Freelancing',
+    date: 'Oct 2022 - Apr 2023',
   },
   {
     id: 4,
-    role: 'Intern Backend Developer',
+    role: 'Intern Developer',
     company: 'Ixora Infotech Pvt. Ltd.',
     date: 'June 2022 - Sep 2022',
-    description: 'Used Python + Flask to develop the software for a SaaS with a team of developers. More info here.',
   },
 ];
 
@@ -43,7 +39,6 @@ const TimelineItem: React.FC<TimelineItemProps> = ({ experience, side }) => {
         <h3 className="text-xl font-semibold mb-2">{experience.role}</h3>
         <h4 className="text-purple-300 text-purple-300 mb-4">{experience.company}</h4>
         <p className="text-purple-200 text-purple-200 mb-2">{experience.date}</p>
-        {/* <p className="text-black text-white">{experience.description}</p> */}
       </div>
     </div>
   );
