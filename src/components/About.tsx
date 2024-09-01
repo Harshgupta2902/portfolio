@@ -43,7 +43,7 @@ const About: React.FC = () => {
                 </div>
 
                 <button className="bg-transparent border hover:bg-white hover:text-black font-bold py-2 px-4 rounded hover:border-none">
-                  <Link href='https://resume.io/r/kpSyznSzv' target='_blank'>
+                  <Link href='https://www.goodcv.com/cv/4487fbf25a954a8bc5deeeaddfe859b9' target='_blank'>
                     Resume
                   </Link>
                 </button>
