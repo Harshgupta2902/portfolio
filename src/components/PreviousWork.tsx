@@ -7,19 +7,13 @@ const projects = [
     title: 'Gradding App',
     description: 'Gradding is a Flutter-based mobile application designed to assist students who aspire to study abroad. It provides comprehensive guidance and resources, making the process smoother and more organized',
     imageUrl: 'https://www.gradding.com/frontend/primary-theme/assets/images/ogimage.png',
-    caseStudyUrl: 'https://www.gradding.com/'
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding&hl=en-IN'
   },
   {
     title: 'IELTS Grad App',
     description: 'IELTS Grad is also a brand of Gradding, offering white-label solutions for test preparation. It is specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. This platform provides students with the necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests',
     imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
     caseStudyUrl: 'https://www.gradding.com/test-preparation/ielts/coaching',
-  },
-  {
-    title: 'Vocabulary (White-Label)',
-    description: 'Vocabulary App is a comprehensive mobile application designed to enhance vocabulary skills for test preparation and language learning. This app is available as a white-label solution, allowing educational institutions and businesses to offer a branded language learning experience to their users',
-    imageUrl: 'https://media.discordapp.net/attachments/881992483603611708/1098721882292887663/image.png?width=1377&height=676',
-    caseStudyUrl: '#',
   },
   {
     title: 'MRP',
@@ -40,10 +34,10 @@ const projects = [
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.woodenstreet&hl=en_US',
   },
   {
-    title: 'IpoTech',
+    title: 'IpoTec',
     description: 'Discover upcoming IPOs, latest mutual fund NAVs, and utilize fintech tools like calculators and PAN verification. All in one sleek, user-friendly platform',
-    imageUrl: 'https://images.ctfassets.net/qr8kennq1pom/1FwKqQoHL68jdVhdkJBJcI/12576e11f3d925df875ebdcb38db9f0a/Freelance.jpg',
-    caseStudyUrl: "https://ipotech.vercel.app/"
+    imageUrl: 'https://www.ipotec.in/og_image.png',
+    caseStudyUrl: "https://ipotec.in"
   },
   {
     title: 'Winners',
@@ -79,22 +73,6 @@ const PreviousWork: React.FC = () => {
               </div>
               <div className="flex-1 bg-transparent p-6 flex flex-col justify-between pw-bg">
                 <div className="flex-1">
-                  {/* {project.caseStudyUrl !== '#' ? (
-                    <a href={project.caseStudyUrl} target='_blank' rel='noopener noreferrer'>
-                      <div className="block mt-2">
-                        <p className="text-xl font-semibold text-gray-300">{project.title}</p>
-                        <p className="mt-3 text-base text-gray-300">{project.description}</p>
-                      </div>
-                    </a>
-                  ) : (
-                    <a>
-                      <div className="block mt-2">
-                        <p className="text-xl font-semibold text-gray-300">{project.title}</p>
-                        <p className="mt-3 text-base text-gray-300">{project.description}</p>
-                      </div>
-                    </a>
-                  )} */}
-
                   {project.caseStudyUrl !== '#' ? (
                     <a href={project.caseStudyUrl} target='_blank' rel='noopener noreferrer'>
                       <div className="block mt-2">
@@ -116,9 +94,6 @@ const PreviousWork: React.FC = () => {
                       </p>
                     </div>
                   )}
-
-
-
                 </div>
               </div>
             </div>
