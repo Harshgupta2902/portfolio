@@ -34,6 +34,12 @@ const projects = [
     imageUrl: 'https://www.mysiponline.com/images/whatsapp.jpg',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.mysiponline&hl=en_US',
   },
+ {
+    title: 'MySIP Calculator',
+    description: 'Mysiponline is a popular online platform that allows users to invest and check their SIP. On this App, Calculate your future value of monthly sip investment compounded monthly or annually',
+    imageUrl: 'https://play-lh.googleusercontent.com/kWxTSxa9BysbdUkgfZMkgxLuKw3XMYowGE6-cs6j-69cW2uElF-uevlJRTnvCRAiaeg=w416-h235-rw',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.mysiponline.calculator&hl=en_IN',
+  },
   {
     title: 'WoodenStreet',
     description: 'The Wooden Street application is an online marketplace that specializes in sourcing authentic, handmade, and unique wooden decorative items from artisans and craftspeople worldwide. Their platform allows users to discover and purchase one-of-a-kind wooden products, such as wooden street art, wooden furniture, and decorative items!',
