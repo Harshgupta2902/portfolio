@@ -31,7 +31,7 @@ const projects = [
   {
     title: 'MySIP Online',
     description: 'Mysiponline is a popular online platform that allows users to check their SIP (Subscriber Identity Module) balance, recharge, and manage their mobile phone accounts. The website provides a user-friendly interface to access various services, including bill payments, data usage, and call logs',
-    imageUrl: 'https://www.mysiponline.com/images/whatsapp.jpg',
+    imageUrl: 'https://play-lh.googleusercontent.com/rvobt18fxbVYIBbSHh7PtRa0JfhNPD3D3YYaIxLvowcQ7KLs9Tl3dPqjJW6kpAfBrBs=w416-h235-rw',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.mysiponline&hl=en_US',
   },
  {
