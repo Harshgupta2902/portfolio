@@ -1,6 +1,13 @@
 "use client"
 
 import { useState } from "react";
+ // {
+ //    title: 'IELTS Grad App',
+ //    description: 'IELTS Grad is also a brand of Gradding, offering white-label solutions for test preparation. It is specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. This platform provides students with the necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests',
+ //    imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
+ //    caseStudyUrl: 'https://www.gradding.com/test-preparation/ielts/coaching',
+ //  },
+
 
 const projects = [
   {
@@ -10,10 +17,10 @@ const projects = [
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding&hl=en-IN'
   },
   {
-    title: 'IELTS Grad App',
-    description: 'IELTS Grad is also a brand of Gradding, offering white-label solutions for test preparation. It is specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. This platform provides students with the necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests',
-    imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
-    caseStudyUrl: 'https://www.gradding.com/test-preparation/ielts/coaching',
+    title: 'Course Finder',
+    description: 'developed by Gradding, for students to find Courses for their overseas education. On this app, you will get easy access to 70000+ Courses in 800+ universities of 8+ countries',
+    imageUrl: 'https://play-lh.googleusercontent.com/59QdYRw6Fiv1YCThqAZwhoyi5DKUQ_1d7ApJ85UWfHuZtCzWn4N2LUs-6BXcbGGWIwc=w416-h235-rw',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.finder&hl=en_IN',
   },
   {
     title: 'MRP',
