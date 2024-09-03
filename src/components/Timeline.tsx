@@ -6,24 +6,28 @@ const experiences = [
     role: 'Executive Flutter Developer',
     company: 'Cognus Technology',
     date: 'Sep 2023 - Present',
+    link:'https://www.cognustechnology.com/',
   },
   {
     id: 2,
     role: 'Flutter Developer',
     company: 'Ixora Infotech Pvt. Ltd.',
     date: 'June 2023 - Sep 2023',
+    link:'https://ixorainfotech.com/',
   },
   {
     id: 3,
     role: 'Full Stack Developer(Android and Web)',
     company: 'Freelancing',
     date: 'Oct 2022 - Apr 2023',
+    link:'#',
   },
   {
     id: 4,
     role: 'Intern Developer',
     company: 'Ixora Infotech Pvt. Ltd.',
     date: 'June 2022 - Sep 2022',
+    link:'https://ixorainfotech.com/',
   },
 ];
 
@@ -34,7 +38,7 @@ interface TimelineItemProps {
 
 const TimelineItem: React.FC<TimelineItemProps> = ({ experience, side }) => {
   return (
-    <a href="#" >
+    <a href={experience.link} >
       <div className={`relative w-full my-6 ${side === 'right' ? 'md:ml-auto' : 'md:mr-auto'} md:w-2/5 ${side === 'right' ? 'timeline-bg1' : 'timeline-bg2'}`}>
         <div className={`bg-transparent bg-transparent border border-grey rounded-lg p-6 `}>
           <h3 className="text-xl font-semibold mb-2">{experience.role}</h3>
