@@ -60,6 +60,12 @@ const projects = [
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.nemochatapp.tech&hl=en_IN',
   },
   {
+    title: 'Ipo Live GMP',
+    description: 'Discover upcoming IPOs, latest mutual fund NAVs, and utilize fintech tools like calculators and PAN verification. All in one sleek, user-friendly platform',
+    imageUrl: 'https://play-lh.googleusercontent.com/OfRyja3s146KPKJm8d6yHQ1D6zRVHlohNnUAuGUImANkmOwHsi9fFf4JQluUe0wDXWQ=w416-h235-rw',
+    caseStudyUrl: "https://play.google.com/store/apps/details?id=com.ipotec"
+  },
+   {
     title: 'IpoTec',
     description: 'Discover upcoming IPOs, latest mutual fund NAVs, and utilize fintech tools like calculators and PAN verification. All in one sleek, user-friendly platform',
     imageUrl: 'https://www.ipotec.in/og_image.png',
