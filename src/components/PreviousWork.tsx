@@ -46,19 +46,6 @@ const projects = [
     imageUrl: 'https://www.woodenstreet.com/images/cover.gif',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.woodenstreet&hl=en_US',
   },
- {
-    title: 'Winners',
-    description: 'The Winners Institute - Indias Best Coaching for. Competitive and Govt. Jobs Exam Preparation',
-    imageUrl: '/winners.png',
-    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.winners.institute&hl=en_US',
-  },
- 
- {
-    title: 'Nemo Chat',
-    description: "It's an online voice and video streaming app like YoHo where users can join multiple public groups and also create their own private groups and stream audio and video and create new friend online",
-    imageUrl: 'https://play-lh.googleusercontent.com/_ffYdRMVwejEMlW8IfNUR9BS_T3jRWgkJiVvPEoDQUJKfk5pxnzfrTxPeaBgkBM9Ew=w416-h235-rw',
-    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.nemochatapp.tech&hl=en_IN',
-  },
   {
     title: 'Ipo Live GMP',
     description: 'Discover upcoming IPOs, latest mutual fund NAVs, and utilize fintech tools like calculators and PAN verification. All in one sleek, user-friendly platform',
@@ -71,7 +58,19 @@ const projects = [
     imageUrl: 'https://www.ipotec.in/og_image.png',
     caseStudyUrl: "https://ipotec.in"
   },
-  
+ {
+    title: 'Winners',
+    description: 'The Winners Institute - Indias Best Coaching for. Competitive and Govt. Jobs Exam Preparation',
+    imageUrl: '/winners.png',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.winners.institute&hl=en_US',
+  },
+ 
+ {
+    title: 'Nemo Chat',
+    description: "It's an online voice and video streaming app like YoHo where users can join multiple public groups and also create their own private groups and stream audio and video and create new friend online",
+    imageUrl: 'https://play-lh.googleusercontent.com/_ffYdRMVwejEMlW8IfNUR9BS_T3jRWgkJiVvPEoDQUJKfk5pxnzfrTxPeaBgkBM9Ew=w416-h235-rw',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.nemochatapp.tech&hl=en_IN',
+  }, 
   {
     title: 'This website ✨',
     description: 'Portfolio website built in Next.js 14 to showcase my projects, experience and resume through a cooler way',
