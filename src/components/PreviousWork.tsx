@@ -18,15 +18,15 @@ const projects = [
   },
   {
     title: 'Course Finder',
-    description: 'developed by Gradding, for students to find Courses for their overseas education. On this app, you will get easy access to 70000+ Courses in 800+ universities of 8+ countries',
+    description: 'Developed by Gradding, for students to find Courses for their overseas education. On this app, you will get easy access to 70000+ Courses in 800+ universities of 8+ countries',
     imageUrl: 'https://play-lh.googleusercontent.com/59QdYRw6Fiv1YCThqAZwhoyi5DKUQ_1d7ApJ85UWfHuZtCzWn4N2LUs-6BXcbGGWIwc=w416-h235-rw',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.finder&hl=en_IN',
   },
   {
-    title: 'MRP',
-    description: 'Global assignment help refers to online academic assistance provided by experts to students worldwide. This type of help is particularly useful for students who are struggling with complex assignments, research papers, or projects. Global assignment help services offer a range of benefits, including timely submissions, improved grades, and enhanced learning outcomes',
-    imageUrl: 'https://www.globalassignmenthelp.com/images/og_GAH.jpg',
-    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.globalassignmenthelp&hl=en_US',
+    title: 'College Predictor',
+    description: 'Developed by Gradding for students to find their dream university for overseas education. On this app, you will get easy access to 800+ universities in 8+ countries',
+    imageUrl: 'https://play-lh.googleusercontent.com/vesmOnDN2G8sbWoKp9RNr2g5fVrRkwQv3b0Q6VEXt7FO3ts50FZ9ux40x02YMYc_vFw=w416-h235-rw',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.predictor&hl=en_IN',
   },
   {
     title: 'MySIP Online',
@@ -58,14 +58,19 @@ const projects = [
     imageUrl: 'https://www.ipotec.in/og_image.png',
     caseStudyUrl: "https://ipotec.in"
   },
- {
+  {
+    title: 'MRP',
+    description: 'Global assignment help refers to online academic assistance provided by experts to students worldwide. This type of help is particularly useful for students who are struggling with complex assignments, research papers, or projects. Global assignment help services offer a range of benefits, including timely submissions, improved grades, and enhanced learning outcomes',
+    imageUrl: 'https://www.globalassignmenthelp.com/images/og_GAH.jpg',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.globalassignmenthelp&hl=en_US',
+  },
+  {
     title: 'Winners',
     description: 'The Winners Institute - Indias Best Coaching for. Competitive and Govt. Jobs Exam Preparation',
     imageUrl: '/winners.png',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.winners.institute&hl=en_US',
   },
- 
- {
+  {
     title: 'Nemo Chat',
     description: "It's an online voice and video streaming app like YoHo where users can join multiple public groups and also create their own private groups and stream audio and video and create new friend online",
     imageUrl: 'https://play-lh.googleusercontent.com/_ffYdRMVwejEMlW8IfNUR9BS_T3jRWgkJiVvPEoDQUJKfk5pxnzfrTxPeaBgkBM9Ew=w416-h235-rw',
