@@ -12,13 +12,11 @@ const About: React.FC = () => {
             <h2 className="text-2xl font-semibold text-white mb-6">About Me</h2>
             <div className="space-y-6">
               <p className="text-gray-200">
-                I&apos;m a 23 year old Developer in both Mobile & Web including Frontend and Backend. <br /> I currently work at Cognus Technology, Udaipur as an Executive Flutter Developer. I completed my B.Tech from Career Point University in 2023 and have been coding since then
+                I&apos;m a 23 year old Developer experienced in both Frontend and Backend in Mobile Applications & Web Dev. <br /> I currently work at Cognus Technology, Udaipur as an Executive Flutter Developer. I completed my B.Tech from Career Point University in 2023 and have been coding since then
               </p>
               <h3 className="text-xl font-semibold text-white">Languages & Frameworks</h3>
               <div className="flex justify-between items-end">
                 <div className="grid grid-cols-12 ">
-
-
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" className="w-10 h-10 rounded-full mb-4 mr-4" alt="next js logo" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" className="w-10 h-10 rounded-full mb-4 mr-4" alt="flutter logo" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" className="w-10 h-10 rounded-full mb-4 mr-4" alt="dart logo" />
@@ -41,7 +39,6 @@ const About: React.FC = () => {
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" className="w-10 h-10 rounded-full mb-4 mr-4" alt="python logo" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" className="w-10 h-10 rounded-full mb-4 mr-4" alt="vscode logo" />
                 </div>
-
                 <button className="bg-transparent border hover:bg-white hover:text-black font-bold py-2 px-4 rounded hover:border-none">
                   <Link href='https://www.goodcv.com/cv/4487fbf25a954a8bc5deeeaddfe859b9' target='_blank'>
                     Resume
