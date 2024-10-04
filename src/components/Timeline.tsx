@@ -28,7 +28,8 @@ const experiences = [
     company: 'Ixora Infotech Pvt. Ltd.',
     date: 'June 2022 - Sep 2022',
     link:'https://ixorainfotech.com/',
-  },
+  }
+  
 ];
 
 interface TimelineItemProps {
