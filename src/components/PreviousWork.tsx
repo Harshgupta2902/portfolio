@@ -2,8 +2,8 @@
 
 import { useState } from "react";
  // {
- //    title: 'IELTS Grad App',
- //    description: 'IELTS Grad is also a brand of Gradding, offering white-label solutions for test preparation. It is specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. This platform provides students with the necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests',
+ //    title: 'IELTS Preparation',
+ //    description: 'Developed by Gradding for students who are specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. It provides necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests for the students',
  //    imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
  //    caseStudyUrl: 'https://www.gradding.com/test-preparation/ielts/coaching',
  //  },
