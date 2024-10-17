@@ -5,7 +5,7 @@ import { useState } from "react";
  //    title: 'IELTS Preparation',
  //    description: 'Developed by Gradding for students who are specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. It provides necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests for the students',
  //    imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
- //    caseStudyUrl: 'https://www.gradding.com/test-preparation/ielts/coaching',
+ //    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.ieltsprep&hl=en-IN',
  //  },
 
 
