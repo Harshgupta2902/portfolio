@@ -1,14 +1,6 @@
 "use client"
-
 import { useState } from "react";
- // {
- //    title: 'IELTS Preparation',
- //    description: 'Developed by Gradding for students who are specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. It provides necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests for the students',
- //    imageUrl: 'https://www.gradding.com/test-preparation/openGraph/test-prep.png',
- //    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.ieltsprep&hl=en-IN',
- //  },
-
-
+ 
 const projects = [
   {
     title: 'Gradding App',
@@ -27,6 +19,12 @@ const projects = [
     description: 'Developed by Gradding for students to find their dream university for overseas education. On this app, you will get easy access to 800+ universities in 8+ countries',
     imageUrl: 'https://play-lh.googleusercontent.com/vesmOnDN2G8sbWoKp9RNr2g5fVrRkwQv3b0Q6VEXt7FO3ts50FZ9ux40x02YMYc_vFw=w416-h235-rw',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.predictor&hl=en_IN',
+  },
+ {
+    title: 'IELTS Preparation',
+    description: 'Developed by Gradding for students who are specifically tailored for IELTS, PTE, GMAT, SAT, and ACT exams. It provides necessary preparation materials, practice tests, and personalized learning plans to excel in these standardized tests for the students',
+    imageUrl: 'https://play-lh.googleusercontent.com/3cuds4ge2Fke7yJXn7HsTnr7zdcDVoIo7SC3ICotTY005Yy7k6mtS2ssROAx3vBE3g=w416-h235-rw',
+    caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding.ieltsprep&hl=en-IN',
   },
   {
     title: 'MySIP Online',
