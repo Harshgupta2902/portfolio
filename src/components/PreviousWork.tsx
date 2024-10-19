@@ -79,7 +79,7 @@ const projects = [
     description: 'Portfolio website built in Next.js 14 to showcase my projects, experience and resume through a cooler way',
     imageUrl: 'https://nextjs.org/static/blog/next-14/twitter-card.png',
     caseStudyUrl: 'https://harsh29.vercel.app/',
-  }
+  },
 ];
 
 const PreviousWork: React.FC = () => {
