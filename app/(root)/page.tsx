@@ -16,6 +16,7 @@ import { siteConfig } from "@/config/site";
 import { featuredSkills } from "@/config/skills";
 import { cn } from "@/lib/utils";
 import harshImg from "@/public/harsh-gupta.jpeg";
+import TypewriterText from "@/components/ui/TypewriterText";
 
 export const metadata: Metadata = {
   title: `${pagesConfig.home.metadata.title} | Modern Next.js Developer Portfolio Template`,
@@ -33,7 +34,7 @@ export default function IndexPage() {
     name: siteConfig.authorName,
     url: siteConfig.url,
     image: siteConfig.ogImage,
-    jobTitle: "Full Stack Developer",
+    jobTitle: "Full Stack Developer || Flutter Developer",
     sameAs: [siteConfig.links.github],
   };
 
@@ -88,11 +89,11 @@ export default function IndexPage() {
             Harsh Gupta
           </AnimatedText>
           <AnimatedText
-            as="h3"
-            delay={0.4}
-            className="font-heading text-base sm:text-xl md:text-xl lg:text-2xl"
+            as="h2"
+            delay={0.2}
+            className="font-heading text-2xl sm:text-3xl md:text-4xl lg:text-4xl"
           >
-            Full Stack Developer
+            <TypewriterText />
           </AnimatedText>
 
           <div className="flex flex-col mt-10 items-center justify-center sm:flex-row sm:space-x-4 gap-3">
